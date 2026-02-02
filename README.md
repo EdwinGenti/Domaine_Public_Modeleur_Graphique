@@ -24,3 +24,7 @@ Le programme s'inspire du schéma réalisé par LECOURT Thibault, mon professeur
 
 <h2>Sources et références</h2>
 - <b>LECOURT Thibault</b>
+
+<br>
+<br>
+- <b>English version of this project: https://github.com/EdwinGenti/Public_Domain_Available_Model_Designer_QGIS__Simple__</b>
